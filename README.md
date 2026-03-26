@@ -1,6 +1,6 @@
 # 📚 Student Management App — MultiProvider Lab
 
-A Flutter app demonstrating **MultiProvider** for managing 3 independent global states.
+A Flutter app demonstrating **MultiProvider** for managing 3 independents global states.
 
 ---
 
